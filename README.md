@@ -60,14 +60,3 @@ To install and run the Car Rental Application locally, follow these steps:
 
 Make sure to set up the required environment variables in the `.env` file before running the application.
 
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please submit an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Authors
-
-- [Your Name](https://github.com/MohamedAmineALLAF)
